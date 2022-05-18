@@ -1,5 +1,5 @@
 body {
-  background-color:aliceblue;
+  background-color: aliceblue;
   text-align: center;
 }
 
@@ -8,9 +8,11 @@ h2 {
 }
 
 form {
+  display: -ms-inline-grid;
   display: inline-grid;
 }
 
 input, textarea {
   margin-top: 20px;
 }
+/*# sourceMappingURL=App.css.map */

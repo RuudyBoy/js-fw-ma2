@@ -1,1 +1,1 @@
-export const API_URL = "https://noroff.herokuapp.com/v1/books";
+export const API = "https://organicflowerpower.org/wp-json/wp/v2/posts";
